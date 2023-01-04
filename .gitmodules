@@ -1,0 +1,3 @@
+[submodule "airootfs/root/ArchTitus"]
+	path = airootfs/root/ArchTitus
+	url = https://github.com/pehmo1/ArchTitus.git
